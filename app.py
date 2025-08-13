@@ -49,7 +49,7 @@ def export_to_excel(df):
 
 
 
-st.set_page_config(page_title="Faculty Feedback Summary", layout="centered")
+st.set_page_config(page_title="Faculty Feedback", layout="centered")
 
 st.title(" Faculty Feedback Summary")
 st.write("Upload multiple feedback Excel files to get Faculty Name, Date, and Average Rating out of 10.")
